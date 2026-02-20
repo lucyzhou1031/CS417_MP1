@@ -33,4 +33,4 @@ L. Themed Props: imported keys, goldbar, and trophy models
 https://yixuan25.itch.io/cs417mp1
 
 ## Link to Git Repository:
-
+https://github.com/lucyzhou1031/CS417_MP1
