@@ -21,12 +21,19 @@ L. Themed Props: imported keys, goldbar, and trophy models
 
 ## Video TimeStamp:
 00:32 - Game Starts and Observes the room
+
 00:45 - Collects Collectibles and Check progress UI
+
 00:48 - Pick up key and tests physics and collider environs
+
 01:29 - Solves Door sockets
+
 01:41 - All door sockets solved and secrets revealed
+
 01:43 - Win celebration
+
 01:48 - Restart Game
+
 02:00 - Quit Game
 
 ## Link to itch.io:
