@@ -1,0 +1,2 @@
+D:\CS417\MP1\MP1 Escape Room\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+D:\CS417\MP1\MP1 Escape Room\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt
